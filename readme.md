@@ -4,13 +4,13 @@ Musification workshop introduces participants to everyday sounds as materials fo
 
 #### Workshop Requirements
 - You!
-- Preferably laptop or any kind of computers that run Windows, Mac, or Linux. Otherwise, any other computer devices that can produce sound via a standard 1/8" phone connector.
+- Preferably laptop or any computing device that runs Windows, Mac, or Linux. Otherwise, any other computer devices that can produce sound via a standard 1/8" phone connector.
 
-- Optional things you can bring to workshop
-	- Musical instruments
-	- Inspirational everyday objects (Cardboard boxes, cans, and etc... Anything!)
-	- Loud speakers and microphones
-
+- Optional things you can bring to the workshop
+    - Musical instruments
+    - Inspirational everyday objects (Cardboard boxes, cans, etc... Anything!)
+    - Loudspeakers and microphones
+    
 #### Workshop Schedule
 - Place: MITxMake @ Zesiger Center
 - Date: April 21, 2018
@@ -24,7 +24,12 @@ Time|Activity
 11:30am| Connecting physical and digital world through sounds
 12:00pm| Performance
 
-#### The Toolkit List and the Budget per Participant (As of 2018.4.21)
+#### Software
+This workshop does not require you to use software provided in this repository, but you are strongly encouraged to try them out! The [Software](https://github.com/navreyort/MusificationWorkshop/tree/master/Software) folder currently contains small patches that you can quickly experiment with sounds in [Supercollider](https://supercollider.github.io/) and [Max](https://cycling74.com/products/max). 
+
+You can always use your favorite Digital Audio Stations (DAW) such as [Ableton Live](https://www.ableton.com/en/live/) and [Reaper](https://www.reaper.fm/), sound editors such as [Audacity](https://www.audacityteam.org/), and music players such as [Spotify](https://www.spotify.com/) and [iTunes](https://www.apple.com/itunes/) as sound source to drive your device.
+
+#### Materials and Budget (As of 2018.4.21)
 ##### Toolkit
 Item|Price|Quantity|URL
 ----|----|----|----
@@ -43,6 +48,8 @@ Item|Price|URL|Note
 3M VHB Tape RP32 0.5 in width x 5 yd length (1 Roll)| $6.03 | https://www.amazon.com/3M-Tape-RP32-width-length/dp/B007Y7E0CQ/ref=sr_1_1?ie=UTF8&qid=1524101580&sr=8-1&keywords=vhb+tape|For attaching transducers to a surface
 3M 1400C ECONOMY TAPE WHITE Economy Vinyl Electrical Tape, White|$2.78|https://www.amazon.com/3M-1400C-ECONOMY-TAPE-WHITE/dp/B00TK8THZ2/ref=sr_1_4?s=hi&rps=1&ie=UTF8&qid=1524179628&sr=1-4&keywords=electrical+tape&refinements=p_85%3A2470955011|For covering exposed wires to reduce the chance of an electrical shock
 Electronix Express- Hook up Wire Kit (Solid Wire Kit) 22 Gage (25 Feet)|$18.95|https://www.amazon.com/Electronix-Express-Hook-Wire-Solid/dp/B00B4ZRPEY/ref=sr_1_7_sspa?s=hi&ie=UTF8&qid=1524179736&sr=1-7-spons&keywords=hookup+wire+single+core&psc=1|For connections to a battery
-
+**Total**|$27.76||
 #### Contact The Organizer
 Akito van Troyer: [akito@media.mit.edu](akito@media.mit.edu)
+#### License
+MIT
