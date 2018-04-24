@@ -1,0 +1,7 @@
+- Please don’t solder anything directly on the battery. Always have a way to easily disconnect battery from your device.
+- If your device gets too hot, remove the battery immediately from your device.
+- If your device catches on fire:
+	- Try to remove the battery ONLY IF YOU CAN
+	- Call the organizer ASAP
+	- Use a fire extinguisher
+	- Use water spray as an effective suppressant

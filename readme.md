@@ -2,6 +2,8 @@
 
 Musification workshop introduces participants to everyday sounds as materials for musical expression. The workshop will focus on using transducers to transform everyday objects such as cups and plates into musical instruments. Participants will build a toolkit during the workshop to musically explore everyday objects. They will gain hands-on experience with the fundamentals of electronic music, digital audio, and music technology.
 
+In the past, we have had participants from various backgrounds. Participants were as young as 7 and as old as ~70 whom all did great in completing the workshop agenda. The workshop does recommend to have parents participate together if the child is younger than 12. So far the project completion rate of participants is 100%!
+
 #### Workshop Requirements
 - You!
 - Preferably laptop or any computing device that runs Windows, Mac, or Linux. Otherwise, any other computer devices that can produce sound via a standard 1/8" phone connector.
@@ -23,6 +25,11 @@ Time|Activity
 11:00am| Creating Sounds with Computers
 11:30am| Connecting physical and digital world through sounds
 12:00pm| Performance
+
+#### Hardware
+This workshop focus on using PAM8403 breakout board as an amplifier. This breakout board is not the only choice to make the Musification process happen, but the board was chosen from the perspective of cost. 
+
+While any transducers can be used in this workshop, the main transducer used in this workshop is from [Tectonic Elements](https://www.parts-express.com/tectonic-elements-teax19c01-8-19mm-metal-cup-exciter-8-ohm--297-208). You can access the case design for this device at [Thingiverse](https://www.thingiverse.com/thing:2871774).
 
 #### Software
 This workshop does not require you to use software provided in this repository, but you are strongly encouraged to try them out! The [Software](https://github.com/navreyort/MusificationWorkshop/tree/master/Software) folder currently contains small patches that you can quickly experiment with sounds in [Supercollider](https://supercollider.github.io/) and [Max](https://cycling74.com/products/max). 
@@ -49,6 +56,7 @@ Item|Price|URL|Note
 3M 1400C ECONOMY TAPE WHITE Economy Vinyl Electrical Tape, White|$2.78|https://www.amazon.com/3M-1400C-ECONOMY-TAPE-WHITE/dp/B00TK8THZ2/ref=sr_1_4?s=hi&rps=1&ie=UTF8&qid=1524179628&sr=1-4&keywords=electrical+tape&refinements=p_85%3A2470955011|For covering exposed wires to reduce the chance of an electrical shock
 Electronix Express- Hook up Wire Kit (Solid Wire Kit) 22 Gage (25 Feet)|$18.95|https://www.amazon.com/Electronix-Express-Hook-Wire-Solid/dp/B00B4ZRPEY/ref=sr_1_7_sspa?s=hi&ie=UTF8&qid=1524179736&sr=1-7-spons&keywords=hookup+wire+single+core&psc=1|For connections to a battery
 **Total**|$27.76||
+
 #### Contact The Organizer
 Akito van Troyer: [akito@media.mit.edu](akito@media.mit.edu)
 #### License
